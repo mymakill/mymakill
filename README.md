@@ -33,8 +33,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 🖥️: I am learning JS programming on my own.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time I play Xbox Series X and watch YouTube.
 
 - :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/-mymakill-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/mymakil)
