@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/>
+</div>
 
 <!--
 **mymakill/mymakill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,9 +9,7 @@
 Here are some ideas to get you started:
 [<iframe src="https://giphy.com/embed/kH1DBkPNyZPOk0BxrM" width="480" height="220" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-kH1DBkPNyZPOk0BxrM">via GIPHY</a></p>](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/>
-</div>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
